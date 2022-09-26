@@ -3,12 +3,13 @@ void setup()
   size(300,300);
   strokeWeight(1.5);
   background(0);
-  int startX=140;
-  int startY= 20;
-  int endX=140;
-  int endY= 20;
-
 }
+
+int startX=140;
+int startY= 20;
+int endX=140;
+int endY= 20;
+  
 void draw()
 {
   stroke(255);
