@@ -34,7 +34,7 @@ void draw()
   line(startX,startY,endX,endY);
   startX = endX;
   startY = endY;
-
+  }
 }
 void mousePressed()
 {
